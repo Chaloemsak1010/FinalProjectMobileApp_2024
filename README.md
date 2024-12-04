@@ -7,7 +7,7 @@ The Asset Borrowing System is designed to facilitate the borrowing and managemen
 
 # Back-End-Side
 Implement with: 
-JWT --> Authentication and Authorization
-Bcrypt --> Hash password
-Express --> Create API 
-Multer --> Image System ***We convert image to Base64 for send image back to front-end
+* JWT --> Authentication and Authorization
+* Bcrypt --> Hash password
+* Express --> Create API 
+* Multer --> Image System ***We convert image to Base64 for send image back to front-end
