@@ -43,4 +43,12 @@ Below are the essential libraries utilized in the back-end:
 - **bcrypt**: Encrypts user passwords to enhance security.  
 - **multer**: Handles image uploads. Images are converted to Base64 format for communication with the front-end.  
 
+## Back-End File Structure 
+- **app.js**: The core file where the Express app is initialized and routes are set up.  
+- **authentication.js**: Includes functionality for JWT-based authentication and password hashing using Bcrypt.  
+- **db.js**: Contains the configuration and queries for connecting to the MySQL database.  
+- **final-mobile_database.sql**: SQL file that contains the database schema and sample data for initializing the application.  
+- **uploaderFile.js**: Implements image uploading using Multer and converts images to Base64 for communication with the front-end.  
+- **images/DataBase_Design.png**: A visual representation of the database schema to aid in understanding the database structure.
+  
 ---
