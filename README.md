@@ -7,7 +7,7 @@ The Asset Borrowing System is designed to facilitate the borrowing and managemen
 
 # Front-End-Side
 * We use Flutter to create ui app
-## Library u need to know:
+Library u need to know:
 * shared_preferences
 * http --> Enables making HTTP requests to interact with APIs or fetch data from the web.
 * dart_jsonwebtoken --> Handles JSON Web Tokens (JWT) for authentication and authorization
