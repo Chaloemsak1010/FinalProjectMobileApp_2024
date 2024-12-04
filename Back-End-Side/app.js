@@ -1,3 +1,4 @@
+// Author: Chaloemsak Arsung
 const express = require("express");
 const connection = require("./db");
 const bcrypt = require("bcrypt");
