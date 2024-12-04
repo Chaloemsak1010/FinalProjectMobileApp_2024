@@ -1,5 +1,5 @@
-# FinalProjectMobileApp_2024  
-**1305216 Mobile Application Development (1/2567)**  
+# Final Project Mobile App _2024  
+**Course: 1305216 Mobile Application Development (1/2567) at MFU**  
 
 ## Asset Borrowing System  
 
